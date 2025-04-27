@@ -2,6 +2,8 @@
 
 Simple examples using Jupyter Notebooks to demonstrate the basic use of open-source LLMs using Hugging Face's transformer library.
 
+![alt text](image.png)
+
 ## Installation
 
 > **Tip**: If you're using Windows, it's recommended to use WSL2 with a Linux distribution like Debian to avoid potential issues.
